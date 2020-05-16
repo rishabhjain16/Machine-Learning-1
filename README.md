@@ -1,21 +1,37 @@
 # Machine-Learning-1
 Introduction to Machine learning using sklearn library. I am using KNN and Logistic regression algorithm with 10-fold cross validation
 There are lots of open source machine learning packages available online for performing all kind of things. The popular ones include:
+
 •	Tensol Flow, an open source ML framework created by Google. It incorporates with other technologies like Python, Java, C++, JavaScript and few others as well. 
+
 •	Keras, an open source ML software designed to work on Deep learning and to simplify deep learning models. 
+
 •	Scikit-learn, it is one of the most famous Machine Learning library. It is built in Python and can be used with other technologies as well. It includes lots of pre-build machine learning models for performing various tasks like regression, classification, data mining, clustering etc.
+
 •	Theano, it is one of the oldest ML library and is being used by industry for deep learning.
+
 •	Caffe- Convolutional Architecture for Fast Feature Embedding is a ML framework written in C++.
+
 •	Torch- It is an open source library written in C which provides optimized results without causing unnecessary complexities. 
+
 •	Accord.NET – Open source framework for ML written in C.
+
 These are some of the popular ML Framework. For my Machine Learning Assignment, I am choosing Scikit-learn library. This is because I am already familiar with Scikit-learn library. During summer this year, I took a ‘Machine Learning A-Z’ online course on UDEMY which taught me how to use Scikit-learn for performing machine learning. Apart from that it can be used with Python. Python is one of the best open source programming tools available. Because I am already familiar with Scikit-Learn and python, I choose to do my assignment using them. Scikit-learn comes with various inbuilt Machine learning models. All you need to do is import the library and build the model with a single line of code. That’s all it takes to start studying ML with Scikit-learn and Python. It’s very flexible and documented. There is a proper documentation available for Scikit-learn making it easy to understand and implement. Sample scripts are available to understand the working and all other API’s are well documented and safeguarded. It comes with various other tools like NumPy, Pandas, matplotlib which are combined with other machine learning packages to play with data, visualize content, create meaningful graphs or to debug a problem. Therefore, to sum it up, Scikit-learn is one of the easiest and productive way to getting to start with Machine Learning programming. Its very well documented with sample scripts available for easy understanding. It is a robust library and provides various range of supervised, unsupervised, semi-supervised and reinforcement learning algorithms. It is built upon SciPy and therefore used along with various other libraries. Also due to my familiarity with python and Scikit-learn from before, I choose to do my machine learning assignment with Scikit-Learn library.  
+
 Main features of Scikit-learn library include:
+
 •	Contains popular algorithm and libraries.
+
 •	Contains popular packages like NumPy, Pandas, Matplotlib, SciPy which are popularly used in ML 
+
 •	Data Mining and Data Analysis
+
 •	Open Source – BSD Licence
+
 •	Reusable and easy implementation
+
 •	Well written documentation
+
 •	Can perform all kind of ML tasks like Preprocessing, Model Selection, Classification, Regression, Clustering, Dimensionality Reduction etc.
 
 Preparing the data for ML package:
