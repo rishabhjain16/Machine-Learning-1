@@ -56,13 +56,23 @@ From the result, we can see that KNN given the accuracy of 95% and Logistic Regr
 
 
 ## REFERENCES AND ACKOWLEDGEMENT: 
+
 •	https://www.udemy.com/course/machinelearning/ (Machine Learning A-Z™: Hands-On Python & R in Data Science)
+
 •	https://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/
+
 •	https://www.thelearningmachine.ai/tree-id3
+
 •	https://medium.com/@Mandysidana/machine-learning-types-of-classification-9497bd4f2e14
+
 •	https://scikit-learn.org/stable/modules/cross_validation.html 
+
 •	https://scikit-learn.org/stable/modules/preprocessing.html
+
 •	https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/
+
 •	https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a
+
 •	http://www.insightsbot.com/blog/1uOwGy/python-logistic-regression-with-scikit-learn
+
 •	https://scikit-learn.org/stable/index.html
