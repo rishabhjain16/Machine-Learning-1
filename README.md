@@ -40,7 +40,8 @@ These are some of the popular ML Framework. For my Machine Learning Assignment, 
 2.	Open excel and import the .txt file.
 3.	Use excel to Delimit the file as “Characters such as commas or tabs separate each field”.
 4.	Transpose the delimited files from rows to columns and columns to rows.
-5.  Save the file as .CSV file. The data preparation to input data in ML package is complete. I have saved the .CSV file as Data.csv.
+5.  Add the title to each file 
+6.  Save the file as .CSV file. The data preparation to input data in ML package is complete. I have saved the .CSV file as Data.csv.
 
 ## ALGORITHM 1 – K NEAREST NEIGHBOUR (KNN) WITH 10-FOLD CROSS VALIDATION
 K-Nearest Neighbour is a supervised learning Machine learning model. Supervised learning models works when Data is already provided. It learns from Data given by training the model on test data. After the training is complete, the test data is inputted to predict the output values. This model works by taking a data point and looking for the K-closest neighbour to that data point. K can be any number from 1 to n. Accuracy of the model varies depending on the value of K. For my assignment, I am taking k as 3. But we can use another algorithm to find the best value of k using Scikit-learn and get the most accurate model of prediction. After that, most of the data point are given a label and clustered accordingly. For our assignment, we are using Scikit learn to predict the dataset for accuracy. After that we are performing 10-fold cross validation on our dataset to predict more accuracy based on 10 different test data to get the best validation for our dataset. 
